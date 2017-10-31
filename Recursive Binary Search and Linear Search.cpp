@@ -35,7 +35,7 @@ int main(){
 				if(v < 0){
 					cout<<"element not Found return for recursive Binary Search : "<<v;
 				}else{
-					cout<<"element Found at index for recursive Binary search : "<<v+1;
+					cout<<"element Found at index : "<<v+1<<"for recursive binary search\n";
 				}
 				break;
 
@@ -44,7 +44,7 @@ int main(){
 				if(v < 0){
 					cout<<"element not Found return for linear search : "<<v;
 				}else{
-					cout<<"element Found at index for linear search : "<<v+1;
+					cout<<"element Found at index : "<<v+1<<" for linear search\n\n";
 				}
 				break;
 		}
