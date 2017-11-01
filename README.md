@@ -1,2 +1,4 @@
-Advanced Algorithms
-\nAdvanced Chapter One : Recursive Binary Search and Linear Search
+                                                   Advanced Algorithms
+Recursive Binary Search and Linear Search
+Quick Sort
+Heapsort
